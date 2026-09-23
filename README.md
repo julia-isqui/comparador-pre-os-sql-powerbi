@@ -15,4 +15,4 @@ Clique no arquivo `comparador_precos.ipynb` aqui em cima
 ### Resultado:
 Encontrei uma economia de até R$ 201,50 entre lojas
 
-#Projeto desenvolvido para fins de estudo/portfólio com apoio de IA para estruturação do código e documentação. Toda a análise, limpeza dos dados e insights foram realizados por mim.
+Projeto desenvolvido para fins de estudo/portfólio com apoio de IA para estruturação do código e documentação. Toda a análise, limpeza dos dados e insights foram realizados por mim.
