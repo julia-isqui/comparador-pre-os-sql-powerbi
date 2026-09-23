@@ -3,7 +3,7 @@
 ### O que esse projeto faz?
 Compara preços de produtos em 3 lojas diferentes para achar a melhor oferta.
 
-### O que eu usei (é o que a vaga da Suhai pede):
+### O que eu usei:
 - **Python + Pandas:** para coletar e limpar os dados
 - **Limpeza de dados:** tratei valores nulos, removi duplicatas, padronizei nomes
 - **SQL:** salvei tudo em banco de dados
